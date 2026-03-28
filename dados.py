@@ -1,7 +1,6 @@
 defi = input("Você quer rolar dano(d) ou rolar teste(t)?: ")
 
 dado = int(input("Escolha a quantia de lados do dado: "))
-c = 0
 num_dados = int(input("Quantos dados rolar?: "))
 import random
 
